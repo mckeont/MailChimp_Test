@@ -1,2 +1,2 @@
 # MailChimp_Test
-Demo Example
+Demo Example for listserve
